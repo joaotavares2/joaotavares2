@@ -5,7 +5,7 @@
 📘 Estou sempre buscando aprender e aprimorar minhas habilidades de programação.
 ##
 
-<img height="180em"> [![card](https://github-readme-stats.vercel.app/api?username=joaotavares2&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![joaotavares2](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotavares2&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</img>
+<img height="180em"> [![card](https://github-readme-stats.vercel.app/api?username=joaotavares2&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <img height="180em">[![joaotavares2](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotavares2&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</img>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
