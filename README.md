@@ -2,7 +2,7 @@
 
 👨‍🎓 Sou formado em Técnico de Desenvolvimento de Sistemas.
 
-📘 Estou sempre buscando aprender e aprimorar minhas habilidades de programação.
+📘 Estou sempre buscando aprender e aprimorar minhas habilidades!
 ##
 
 <img height="180em"> [![card](https://github-readme-stats.vercel.app/api?username=joaotavares2&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <img height="180em">[![joaotavares2](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotavares2&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</img>
