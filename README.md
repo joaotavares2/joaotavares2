@@ -1,6 +1,6 @@
 ## Olá, meu nome é João Pedro!
 
-👨‍🎓 Sou formado em Técnico de Desenvolvimento de Sistemas.
+👨‍🎓 Sou formado em Técnico de Desenvolvimento de Sistemas e estou estudando Análise e Desenvolvimento de Sistemas (2 Semestre).
 
 📘 Estou sempre buscando aprender e aprimorar minhas habilidades!
 ##
