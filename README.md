@@ -1,17 +1,22 @@
 ## Olá, meu nome é João Pedro!
+### Desenvolvedor de Sistemas | Buscando Oportunidades em Back-end
 
-👨‍🎓 Sou formado em Técnico de Desenvolvimento de Sistemas e estou estudando Análise e Desenvolvimento de Sistemas (2 Semestre).
-
-📘 Estou sempre buscando aprender e aprimorar minhas habilidades!
+🦾 **Sobre mim:**
+* 🎓 Técnico em Desenvolvimento de Sistemas.
+* 📚 Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas.
+* 💡 Apaixonado por tecnologia e constantemente buscando aprimorar minhas habilidades, com um foco particular em **Java** e **Spring Boot**.
+* 🎯 Estou sempre buscando contribuir para projetos desafiadores e crescer profissionalmente na área de desenvolvimento Back-end.
 ##
 
-<img height="180em"> [![card](https://github-readme-stats.vercel.app/api?username=joaotavares2&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <img height="180em">[![joaotavares2](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotavares2&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</img>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotavares2&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</p>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/spring.png" alt="spring-boot"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="MySQL"/></code>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,git" />
+  </a>
+</p>
 
 ##
 
