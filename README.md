@@ -8,15 +8,11 @@
 * 🎯 Estou sempre buscando contribuir para projetos desafiadores e crescer profissionalmente na área de desenvolvimento Back-end.
 ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotavares2&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</p>
+👨🏻‍💻 **Principais tecnologias:**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,git" />
-  </a>
-</p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,git,github" />
+  </p>
 
 ##
 
