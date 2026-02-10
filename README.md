@@ -3,7 +3,7 @@
 
 🦾 **Sobre mim:**
 * 🎓 Técnico em Desenvolvimento de Sistemas.
-* 📚 Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas.
+* 📚 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.
 * 💡 Apaixonado por tecnologia e constantemente buscando aprimorar minhas habilidades, com um foco particular em **Java** e **Spring Boot**.
 * 🎯 Estou sempre buscando contribuir para projetos desafiadores e crescer profissionalmente na área de desenvolvimento Back-end.
 
@@ -17,7 +17,7 @@
 
   🦾 **About Me:**
   * 🎓 Systems Development Technician.
-  * 📚 Currently in the 2nd semester of Systems Analysis and Development.
+  * 📚 Currently in the 3nd semester of Systems Analysis and Development.
   * 💡 Passionate about technology and constantly seeking to enhance my skills, with a particular focus on **Java** and **Spring Boot**.
   * 🎯 Always looking to contribute to challenging projects and grow professionally in the Back-end development area.
 </details>
