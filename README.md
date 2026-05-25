@@ -25,7 +25,7 @@
 👨🏻‍💻:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,mysql,git,visualstudio" />
   </p>
 
 ##
