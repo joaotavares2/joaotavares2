@@ -1,5 +1,5 @@
 ## Olá, meu nome é João Pedro!
-### Desenvolvedor de Sistemas | Buscando Oportunidades em Back-end
+### Desenvolvedor de Sistemas | C#, .net, XAML, React Native
 
 🦾 **Sobre mim:**
 * 🎓 Técnico em Desenvolvimento de Sistemas.
@@ -13,7 +13,7 @@
   <summary>🇺🇸 Read in English</summary>
 
   ## Hello, my name is João Pedro!
-  ### Systems Developer | Seeking Back-end Opportunities
+  ### Systems Developer | C#, .net, XAML, React Native
 
   🦾 **About Me:**
   * 🎓 Systems Development Technician.
