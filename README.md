@@ -4,7 +4,7 @@
 🦾 **Sobre mim:**
 * 🎓 Técnico em Desenvolvimento de Sistemas.
 * 📚 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.
-* 💡 Apaixonado por tecnologia e constantemente buscando aprimorar minhas habilidades, com um foco particular em **Java** e **Spring Boot**.
+* 💡 Apaixonado por tecnologia e constantemente buscando aprimorar minhas habilidades, com um foco particular em **C#**, **XAML** e **React Native**.
 * 🎯 Estou sempre buscando contribuir para projetos desafiadores e crescer profissionalmente na área de desenvolvimento Back-end.
 
 ---
@@ -18,7 +18,7 @@
   🦾 **About Me:**
   * 🎓 Systems Development Technician.
   * 📚 Currently in the 3nd semester of Systems Analysis and Development.
-  * 💡 Passionate about technology and constantly seeking to enhance my skills, with a particular focus on **Java** and **Spring Boot**.
+  * 💡 Passionate about technology and constantly seeking to enhance my skills, with a particular focus on **C#**, **XAML** and **React Native**.
   * 🎯 Always looking to contribute to challenging projects and grow professionally in the Back-end development area.
 </details>
 
